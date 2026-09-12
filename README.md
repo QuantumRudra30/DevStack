@@ -7,13 +7,13 @@ Build Your Ideal Development Stack — discover, explore, and organize the techn
 Dev Stack is an interactive technology exploration platform that helps developers discover and organize their favorite development tools and technologies in one place.
 Whether you're building a frontend, backend, database-driven application, or complete full-stack project, Dev Stack makes it easy to explore technologies and create your ideal development stack.
 
-## Technologies Used
-# React.js
-# Tailwind CSS, DaisyUI,React-icon
-# TypeScript
-# React-Toastify (NPM Package)
-# JSON (for technology data)
-# Vite (build tool)
+# Technologies Used
+### React.js
+### Tailwind CSS, DaisyUI,React-icon
+### TypeScript
+### React-Toastify (NPM Package)
+### JSON (for technology data)
+### Vite (build tool)
 
  ## Features
 🔍 1. Explore Technologies
