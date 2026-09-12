@@ -1,14 +1,13 @@
-#Live Server----- devstack-bd.netlify.app
+#Live Server----- https://devstack-bd.netlify.app/
 
-🚀 Dev Stack
+ ## Dev Stack
 Build Your Ideal Development Stack — discover, explore, and organize the technologies you need to build modern web applications.
 
-📖 About The Project
+## About The Project
 Dev Stack is an interactive technology exploration platform that helps developers discover and organize their favorite development tools and technologies in one place.
-
 Whether you're building a frontend, backend, database-driven application, or complete full-stack project, Dev Stack makes it easy to explore technologies and create your ideal development stack.
 
-🛠️ Technologies Used
+## Technologies Used
 Frontend
 ⚛️ React
 ▲ Next.js
@@ -25,7 +24,8 @@ DevOps & Version Control
 🐳 Docker
 🔀 Git
 🐙 GitHub
-✨ Features
+
+ ## Features
 🔍 1. Explore Technologies
 Browse and discover modern development technologies categorized into Frontend, Backend, Database, Languages, Styling, and DevOps.
 
