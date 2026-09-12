@@ -2,9 +2,8 @@ import { Suspense } from "react";
 import Banner from "./components/Banner";
 import Nav from "./components/Nav";
 import Tech from "./components/Tech/Tech";
-import Lasttech from"./Tech
-
 import type { Tech as TechType } from "./Types.tsx/types";
+import Footer from "./components/Footer";
 
 function App() {
   const techPromise = async (): Promise<TechType[]> => {
@@ -30,7 +29,7 @@ function App() {
       <Suspense fallback={<p>Loading...</p>}>
         <Tech techPromise={techPromise()} />
       </Suspense>
-      <Lasttech />
+      <Footer/>
     </>
   );
 }
