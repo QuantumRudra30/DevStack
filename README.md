@@ -8,19 +8,19 @@ Dev Stack is an interactive technology exploration platform that helps developer
 Whether you're building a frontend, backend, database-driven application, or complete full-stack project, Dev Stack makes it easy to explore technologies and create your ideal development stack.
 
 ## Technologies Used
-Frontend
+## Frontend
 ⚛️ React
 ▲ Next.js
 🟨 JavaScript
 🔷 TypeScript
 🎨 Tailwind CSS
-Backend
+## Backend
 🟢 Node.js
 🚂 Express.js
-Database
+## Database
 🍃 MongoDB
 🐘 PostgreSQL
-DevOps & Version Control
+## DevOps & Version Control
 🐳 Docker
 🔀 Git
 🐙 GitHub
